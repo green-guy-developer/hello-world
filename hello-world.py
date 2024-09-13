@@ -1,4 +1,4 @@
-from funcs import hello_world
+from funcs import hello
 
 if __name__ == "__main__":
-    print(hello_world())
+    print(hello('folks'))
