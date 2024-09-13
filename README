@@ -1,0 +1,4 @@
+Basic Hello World Application
+
+Run tests with:
+python3 -m unittest test_hello_world.py
